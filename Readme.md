@@ -3,7 +3,7 @@
 ## Lớp : D15PM01
 ## Giảng viên hướng dẫn : Th.s Trần Văn tài
 ## Mô tả ngắn về sản phẩm, chức năng, …. :
-## Mô Tả : Đây là website cung cấp cho khách hàng những thông tin chính xác về các sản phẩm laptop và linh kiện có trên thị trường và hổ trợ đặt mua một cách nhanh chóng
+### Mô Tả : Đây là website cung cấp cho khách hàng những thông tin chính xác về các sản phẩm laptop và linh kiện có trên thị trường và hổ trợ đặt mua một cách nhanh chóng
 ### Chức năng : 
 ```
 1.Quản lý danh sách sản phẩm
@@ -20,6 +20,6 @@
 4. Trang chi tiết sản phẩm : <img src="https://i.imgur.com/ZkIahKM.png">
 5. Trang giỏ hàng : <img src="https://i.imgur.com/9d9NA68.png">
 6. Trang thanh toán : <img src="https://i.imgur.com/FLQeyla.png">
-7. Trang liên hệ : < img src="https://i.imgur.com/GvchUao.png">
+7. Trang liên hệ : <img src="https://i.imgur.com/GvchUao.png">
 8. Trang quản trị : <img src="https://i.imgur.com/fwpE1Jg.png">
 ## Toàn bộ mã nguồn của sản phẩm
